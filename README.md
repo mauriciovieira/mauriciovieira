@@ -4,7 +4,7 @@ Hello, I'm Mauricio. I currently live in [Salvador, Brazil](https://www.google.c
 
 ![Poster Salvador](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Salvador_Brazil_skyline_%28cropped%29.jpg/640px-Salvador_Brazil_skyline_%28cropped%29.jpg)
 
-I began programming in the 90's, years before studying Computer Science at Federal University of Bahia in 1999. My first software development internship began in 2000, and my career in software development spans more than 15 years.
+I began programming in the 90's, years before starting my studies in Computer Science at Federal University of Bahia (1999-2005). My first internship began in 2000, and my career in software development spans more than 15 years.
 
 I have been working for clients around the globe, and developing business at https://omnicode.solutions, my sole proprietorship consulting company based in Brazil.
 
