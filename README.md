@@ -4,17 +4,18 @@ Hello, I'm Mauricio. I currently live in [Salvador, Brazil](https://www.google.c
 
 ![Poster Salvador](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Salvador_Brazil_skyline_%28cropped%29.jpg/640px-Salvador_Brazil_skyline_%28cropped%29.jpg)
 
-I have been working for clients around the globe, and developing business at https://omnicode.solutions, my sole proprietorship consulting company based in Brazil.  I am open to both quick projects and long term relationships.
+I began programming in the 90's, years before studying Computer Science at Federal University of Bahia in 1999. My first software development internship began in 2000, and my career in software development spans more than 15 years.
 
-#### Short story 
+I have been working for clients around the globe, and developing business at https://omnicode.solutions, my sole proprietorship consulting company based in Brazil.
 
-I don't remember exactly the first time I programmed a computer, but it was in the 80's. Probably around 1987~1989. My father bought us a [MSX](https://en.wikipedia.org/wiki/MSX) computer with 2 catridge slots and [cassete](https://en.wikipedia.org/wiki/Cassette_tape) connection as well. I remember that I had no idea of how to save anything to the tapes, and there was a game of 200 or 300 lines in BASIC that my older brother and I had to type whenever we wanted to play. By then I rembember getting BASIC classes at school. (... to be continued)
-
-#### 📫 How to reach me:
+You can reach me through:
 
 - [LinkedIn](https://linkedin.com/mauriciovieira)
 - [Personal Website](https://mauriciovieira.net)
-- Email: inquiry@omnicode.solutions
+
+<a href="https://github.com/mauriciovieira">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mauriciovieira&show_icons=true&line_height=24&count_private=true&include_all_commits=true&hide_title=true&bg_color=FEFEFE&icon_color=33BB44&title_color=33bb44" alt="Mauricio Vieira GitHub stats" /><br />
+</a>
 
 <!--
 **mauriciovieira/mauriciovieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
