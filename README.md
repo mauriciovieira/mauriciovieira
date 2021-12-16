@@ -16,7 +16,3 @@ You can reach me through:
 <a href="https://github.com/mauriciovieira">
   <img src="https://github-readme-stats.vercel.app/api?username=mauriciovieira&&theme=gruvbox&count_private=true&include_all_commits=true" alt="Mauricio Vieira GitHub stats" /><br />
 </a>
-
-<a href="https://github.com/mauriciovieira">
-  <img alt="Mauricio Vieira's most used languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciovieira&layout=compact&langs_count=20&theme=gruvbox">
-</a>
