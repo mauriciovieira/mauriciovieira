@@ -1,16 +1,101 @@
-### Welcome to my GitHub profile
+# 👋 Hi, I'm Mauricio Vieira
 
-Hello, I'm Mauricio. I'm based in Salvador, Brazil.
+Senior Software Engineer focused on building scalable systems, APIs, and AI-enabled solutions.
 
-More about my work and writing: **[mauriciovieira.net](https://mauriciovieira.net)**
+🇧🇷 Based in Brazil | 🌎 Working remotely worldwide
+🔗 [mauriciovieira.net](https://mauriciovieira.net) • [LinkedIn](https://www.linkedin.com/in/mauriciovieira/)
 
-I began programming in the 90's, years before starting my studies in Computer Science at Federal University of Bahia (1999-2005). My first internship began in 2000, and my career in software development spans more than 15 years.
+---
 
-I have been working for clients around the globe, and developing business at https://omnicode.solutions, my sole proprietorship consulting company based in Brazil.
+## 💡 About me
 
-You can reach me through:
+I’ve been building software since the late 90s — professionally since the early 2000s — with a strong focus on backend engineering and product development.
 
-- [LinkedIn](https://www.linkedin.com/in/mauriciovieira/)
-- [Personal website](https://mauriciovieira.net)
+Over the years, I’ve worked with startups, consultancies, and global teams, helping design and scale systems used by thousands (and sometimes millions) of users.
+
+Today, I focus on:
+
+* Building **robust backend systems** (Ruby on Rails, APIs, distributed systems)
+* Developing **AI-enabled solutions and automations**
+* Designing **scalable architectures**
+* Consulting through my company → [omnicode.solutions](https://omnicode.solutions)
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+
+* Ruby on Rails (15+ years)
+* Python (Django, scripting, scraping)
+* TypeScript / Node / Deno
+* Rust
+
+**Frontend**
+
+* React
+* Vue.js
+* Ember.js
+* TailwindCSS
+
+**Infrastructure & DevOps**
+
+* PostgreSQL
+* Redis
+* Elasticsearch / Solr
+* Docker
+* Kubernetes
+* Terraform
+* Ansible
+* Kamal
+
+**AI / Automation**
+
+* LLM integrations
+* RAG concepts and experimentation
+* Workflow automation (Zapier-style systems)
+
+**Other experience**
+
+* Java
+* Lua
+* Perl
+
+---
+
+## 🧪 Engineering mindset
+
+* Strong focus on **code quality and maintainability**
+* Experience with **high-scale systems and APIs**
+* Comfortable with **legacy systems + modernization**
+* Advocate for **pragmatic architecture over hype**
+
+---
+
+## 🌍 Experience highlights
+
+* Worked with startups like **GoCo** and **Smartly.io** in early stages
+* Consulting for international clients
+* Built and maintained SDKs (Ruby, PHP, Java)
+* Experience with integrations, automation, and document workflows
+
+---
+
+## 📫 Contact
+
+* 🌐 Website: https://mauriciovieira.net
+* 💼 LinkedIn: https://www.linkedin.com/in/mauriciovieira/
+* 🏢 Company: https://omnicode.solutions
+
+---
+
+## 📊 GitHub Stats
 
 ![GitHub stats](./profile/stats.svg)
+
+---
+
+## ⚡ Fun facts
+
+* I’ve been doing web scraping since 2005 — long before it was cool
+* I’ve been writing bash scripts since 1999
