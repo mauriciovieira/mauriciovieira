@@ -30,6 +30,7 @@ Today, I focus on:
 * Python (Django, scripting, scraping)
 * TypeScript / Node / Deno
 * Rust
+* PHP
 
 **Frontend**
 
