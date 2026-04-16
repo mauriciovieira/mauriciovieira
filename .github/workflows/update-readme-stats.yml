@@ -1,3 +1,8 @@
+# Private contributions on the card require a classic PAT on this account with
+# scopes: repo, read:user. Add it as repo secret README_STATS_PAT (Settings →
+# Secrets and variables → Actions). The default GITHUB_TOKEN cannot read private
+# activity for the stats API.
+
 name: Update README stats
 
 on:
@@ -19,9 +24,9 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=gruvbox&include_all_commits=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_PAT }}
 
       - name: Commit stats card
         run: |
