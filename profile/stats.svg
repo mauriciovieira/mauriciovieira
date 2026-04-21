@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Maur&#237;cio Vieira's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 169, Total Commits  : 9558, Total PRs: 250, Total Issues: 575, Contributed to (last year): 18</desc>
+        <desc id="descId">Total Stars Earned: 169, Total Commits  : 9561, Total PRs: 251, Total Issues: 574, Contributed to (last year): 18</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 22.332013652194924;
+        stroke-dashoffset: 22.30486626543323;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >250</text>
+      >251</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >575</text>
+      >574</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
