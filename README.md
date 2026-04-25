@@ -15,7 +15,7 @@ Over the years, I’ve worked with startups, consultancies, and global teams, he
 
 Today, I focus on:
 
-* Building **robust backend systems** (Ruby on Rails, APIs, distributed systems)
+* Building **robust backend systems** (Ruby on Rails, Python/Django, APIs, distributed systems)
 * Developing **AI-enabled solutions and automations**
 * Designing **scalable architectures**
 * Consulting through my company → [omnicode.solutions](https://omnicode.solutions)
