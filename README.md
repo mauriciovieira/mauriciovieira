@@ -18,10 +18,12 @@ I design and ship full-lifecycle software, then automate the parts that used to 
 
 ## Selected work
 
-A few systems I built. Full case studies live on [mauriciovieira.net](https://mauriciovieira.net).
+A few systems I have built and shipped, in-house and as a consultant. More on [mauriciovieira.net](https://mauriciovieira.net).
 
-- **Decentralized ISP operating stack** - customer dashboard, APIs, workers, and a Shopify Hydrogen storefront from scratch, with epoch-aware reward logic on Kubernetes.
-- **Platform modernization** - billing, onboarding, and provisioning; SOC2-aligned 2FA, GitLab to GitHub Actions migration, automated Stripe flows.
+- **DAWN** - decentralized ISP operating stack: customer dashboard, APIs, and workers on Kubernetes, a Shopify Hydrogen storefront from scratch, network automation in Rust (Nautobot, OpenWiFi, and MikroTik integrations), and epoch-aware reward logic.
+- **Andrena** - platform modernization across billing, onboarding, and provisioning: SOC2-aligned 2FA, GitLab to GitHub Actions migration, automated Stripe flows, and Nautobot integration.
+- **Smartly.io** - customer health dashboard surfacing account signals for the team.
+- **GoCo.io** - billing proration logic for plan and headcount changes.
 
 ---
 
@@ -36,11 +38,3 @@ I am **open to select projects and consulting**, and to the right full-time role
 **Start here: [mauriciovieira.net](https://mauriciovieira.net)**
 
 <sub>Coding since 1999. Web scraping since 2005, before it was cool.</sub>
-
----
-
-<sub>
-
-![GitHub stats](./profile/stats.svg)
-
-</sub>
