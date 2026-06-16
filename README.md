@@ -22,7 +22,6 @@ A few systems I built. Full case studies live on [mauriciovieira.net](https://ma
 
 - **Decentralized ISP operating stack** - customer dashboard, APIs, workers, and a Shopify Hydrogen storefront from scratch, with epoch-aware reward logic on Kubernetes.
 - **Platform modernization** - billing, onboarding, and provisioning; SOC2-aligned 2FA, GitLab to GitHub Actions migration, automated Stripe flows.
-- **Data ingestion rebuild** - cut a nightly pipeline from 6h to 38min and on-call pages from 5/week to 0.
 
 ---
 
