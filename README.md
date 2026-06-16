@@ -1,102 +1,47 @@
-# 👋 Hi, I'm Mauricio Vieira
+# Mauricio Vieira
 
-Senior Software Engineer focused on building scalable systems, APIs, and AI-enabled solutions.
+### I build software that ships and scales.
 
-🇧🇷 Based in Brazil | 🌎 Working remotely worldwide
-🔗 [mauriciovieira.net](https://mauriciovieira.net) • [LinkedIn](https://www.linkedin.com/in/mauriciovieira/)
+Principal Software Engineer and Consultant with 19+ years turning hard requirements into reliable backend systems, web products, and AI-enabled automation. Ruby on Rails, Python, TypeScript. Remote from Salvador, Brazil, for clients across the Americas and Europe.
 
----
-
-## 💡 About me
-
-I’ve been building software since the late 90s — professionally since the early 2000s — with a strong focus on backend engineering and product development.
-
-Over the years, I’ve worked with startups, consultancies, and global teams, helping design and scale systems used by thousands (and sometimes millions) of users.
-
-Today, I focus on:
-
-* Building **robust backend systems** (Ruby on Rails, Python/Django, APIs, distributed systems)
-* Developing **AI-enabled solutions and automations**
-* Designing **scalable architectures**
-* Consulting through my company → [omnicode.solutions](https://omnicode.solutions)
+**[See the work and the full story at mauriciovieira.net ->](https://mauriciovieira.net)**
 
 ---
 
-## 🛠️ Tech Stack
+## What I do
 
-**Backend**
+I design and ship full-lifecycle software, then automate the parts that used to need a human. My favorite success metric is "fewer manual steps."
 
-* Ruby on Rails (15+ years)
-* Python (Django, scripting, scraping)
-* TypeScript / Node / Deno
-* Rust
-* PHP
+- **Backend and architecture** - APIs, distributed systems, data pipelines, legacy modernization
+- **AI-enabled products** - LLM integrations, RAG, internal copilots, and workflow automation that quietly runs in the background
+- **Full-lifecycle delivery** - design, build, test, ship; Certified Scrum Master and Product Owner
 
-**Frontend**
+## Selected work
 
-* React
-* Vue.js
-* Ember.js
-* TailwindCSS
+A few systems I built. Full case studies live on [mauriciovieira.net](https://mauriciovieira.net).
 
-**Infrastructure & DevOps**
-
-* PostgreSQL
-* Redis
-* Elasticsearch / Solr
-* Docker
-* Kubernetes
-* Terraform
-* Ansible
-* Kamal
-
-**AI / Automation**
-
-* LLM integrations
-* RAG concepts and experimentation
-* Workflow automation (Zapier-style systems)
-
-**Other experience**
-
-* Java
-* Lua
-* Perl
+- **Decentralized ISP operating stack** - customer dashboard, APIs, workers, and a Shopify Hydrogen storefront from scratch, with epoch-aware reward logic on Kubernetes.
+- **Platform modernization** - billing, onboarding, and provisioning; SOC2-aligned 2FA, GitLab to GitHub Actions migration, automated Stripe flows.
+- **Data ingestion rebuild** - cut a nightly pipeline from 6h to 38min and on-call pages from 5/week to 0.
 
 ---
 
-## 🧪 Engineering mindset
+## Let's work together
 
-* Strong focus on **code quality and maintainability**
-* Experience with **high-scale systems and APIs**
-* Comfortable with **legacy systems + modernization**
-* Advocate for **pragmatic architecture over hype**
+I am **open to select projects and consulting**, and to the right full-time role.
 
----
+- **Hiring?** I own systems end to end and level up the teams around them -> [LinkedIn](https://www.linkedin.com/in/mauriciovieira/)
+- **Need to ship something?** I scope fast and deliver through my consultancy -> [omnicode.solutions](https://omnicode.solutions)
+- **Prefer to chat?** -> [WhatsApp](https://wa.me/5511970125571)
 
-## 🌍 Experience highlights
+**Start here: [mauriciovieira.net](https://mauriciovieira.net)**
 
-* Worked with startups like **GoCo** and **Smartly.io** in early stages
-* Consulting for international clients
-* Built and maintained SDKs (Ruby, PHP, Java)
-* Experience with integrations, automation, and document workflows
+<sub>Coding since 1999. Web scraping since 2005, before it was cool.</sub>
 
 ---
 
-## 📫 Contact
-
-* 🌐 Website: https://mauriciovieira.net
-* 💼 LinkedIn: https://www.linkedin.com/in/mauriciovieira/
-* 🏢 Company: https://omnicode.solutions
-
----
-
-## 📊 GitHub Stats
+<sub>
 
 ![GitHub stats](./profile/stats.svg)
 
----
-
-## ⚡ Fun facts
-
-* I’ve been doing web scraping since 2005 — long before it was cool
-* I’ve been writing bash scripts since 1999
+</sub>
